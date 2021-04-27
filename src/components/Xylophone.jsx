@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import Bars from './Bars'
 export default function Xylophone(props){
     let bars = [['C', '#ee534f'], ['D', '#fea726'], ['E', '#ffc927'], ['F', '#66bb6a'], ['G', '#25a79a'], ['A', '#2cb5f6'], ['B', '#7e57c2'], ['C', '#ee534f']]
